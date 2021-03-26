@@ -1,2 +1,2 @@
 # blogdecafe
-https://julianabearzi.github.io/
+ https://julianabearzi.github.io/blogdecafe/
